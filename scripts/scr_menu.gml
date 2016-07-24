@@ -2,7 +2,7 @@ var choice = argument0;
 
 switch (choice) {
        case "Play": {
-            room_goto(rm_introLevel1);
+            room_goto(rm_bedroom);
             break;
        }
        
